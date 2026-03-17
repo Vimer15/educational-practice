@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35208.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIDemkaForVue", "APIDemkaForVue\APIDemkaForVue.csproj", "{EBE7F35C-7C89-47B5-9BD7-F2D6A7C099CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBE7F35C-7C89-47B5-9BD7-F2D6A7C099CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBE7F35C-7C89-47B5-9BD7-F2D6A7C099CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBE7F35C-7C89-47B5-9BD7-F2D6A7C099CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBE7F35C-7C89-47B5-9BD7-F2D6A7C099CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F7AC15E0-273B-43A9-9D40-52C458319D25}
+	EndGlobalSection
+EndGlobal
